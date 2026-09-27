@@ -6,7 +6,7 @@ c = float(input("c = "))
 
 def disk (a,b,c):
     return b**2-4*a*c
-def kor (a,b,c):
+def kore (a,b,c):
     d = disk (a,b,c)
 
     if d > 0:
@@ -18,5 +18,5 @@ def kor (a,b,c):
         print(x,"Має один корінь")
     else:
         print("Коренів немає")
-(kor(a,b,c))
+(kore(a,b,c))
 
