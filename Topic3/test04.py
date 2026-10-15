@@ -6,7 +6,7 @@ def find_pos(x):
             return i
     return len(a)
 
-x = 10
+x = 6
 
 pos = find_pos(x)
 a.insert(pos, x)
