@@ -1,4 +1,4 @@
-from lab2 import findPosition, addElemToSortedList, deleteElem, loadData, saveData
+from lab2 import findPosition, addElemToSortedList, deleteElem
 
 
 def test_findPosition():
