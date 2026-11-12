@@ -1,5 +1,3 @@
-
-import sys
 from Student import Student
 from StudentList import StudentList
 from Utils import Utils
